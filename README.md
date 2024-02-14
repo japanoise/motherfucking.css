@@ -3,6 +3,9 @@
 This is a very minimal css file, used for my website. It works well for mobile
 and desktop. It's inspired by the motherfucking websites.
 
+For an actively maintained alternative that takes this idea to its logical conclusion,
+with more configurability and options, check out [oxalorg/sakura](https://github.com/oxalorg/sakura)
+
 ## Eink
 
 eink-kramdown.css provides a nice minimal theme for kramdown's highlighted code
